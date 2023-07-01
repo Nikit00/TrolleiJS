@@ -6,7 +6,7 @@ Projeto criado para **trolar** a amiga, parceira, namorada ou esposa etc... Uma 
 
 ##  Dicas de Instalação/Configuração ⚙
 
-- Fazer o **download** do projeto.
+- Fazer o [download](https://github.com/Nikit00/TrolleiJS/archive/refs/heads/main.zip) do projeto.
 - Mover a pasta completa para outro local (C: ou Documentos)
 - Clicar com o botão do mouse no arquivo **naoClique.html** e enviar para **Area de trabalho**.
 - Ir para Area de trabalho, encontrar o arquivo **naoClique** e renomear para **NAO CLIQUE AQUI**
