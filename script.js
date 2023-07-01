@@ -13,3 +13,7 @@ function fuja(){
     botaoNao.style.left = aleatorioX + "px";
     botaoNao.style.top = aleatorioY + "px";
 }
+
+function showAlert(){
+    alert("😍😍 Ai sim ein, to preparado pra mais tarde 🤤🤤")
+}
