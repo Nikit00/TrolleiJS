@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #000;
+    color: #FFF;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    height: 100vh;
+    margin: 0;    
+}
+
+@keyframes colorChange {
+    0% { background-color: #FF0000; }
+    50% { background-color: #fee502; }
+    100% { background-color: #FF0000; }
+  }
+
+.box {
+    background: linear-gradient(135deg, rgba(41,41,41,1) 0%, rgba(78,78,78,1) 100%);
+    color: #000;
+    width: 30rem;
+    height: 26rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid #FF0000;
+    border-radius: 2rem;
+}
+
+.texto-animado{
+    font-size: 46px;
+    background: #FF0000;
+    color: #FFF;
+    padding: .8rem;
+    border-radius: 24px
+}
+
+.sexo img{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.botoes button {
+    width: 5rem;
+    height: 2.5rem;
+    border-radius: 12px;
+    font-size: 18px;
+    border: 2px solid #FFF;
+
+}
+
+#sim {
+    background: red;
+    color: #FFF;
+    animation: colorChange 400ms linear infinite;
+    margin-left: -80px;
+}
+
+#sim:hover {
+    cursor: pointer;
+}
+
+#nao {
+    position: absolute;
+    margin-left: 4px;
+}
