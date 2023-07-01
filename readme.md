@@ -1,6 +1,6 @@
 <h1 align="center">Instruções de Uso 📌</h1>
 
-## Sobre o projeto ✔
+## Sobre o projeto ✔ 🔞🔞
 
 Projeto criado para **trolar** a amiga, parceira, namorada ou esposa etc... Uma brincadeira para a pessoa que vai clicar por curiosidade, ter uma pagina inicial que pode gerar um certo medo, depois um alivio, logo depois uma brincadeira com uma pitada de humor apimentado (saliente) rsrsrs.
 
