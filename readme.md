@@ -2,7 +2,7 @@
 
 ## Sobre o projeto ✔
 
-Projeto criado para criar **trolar** a amiga, parceira, namorada ou esposa etc... Uma brincadeira para a pessoa que vai clicar onde nao deveria, ter uma pagina inicial que pode gerar um certo, depois um alivio, e depois uma brincadeira, com uma pitada de humor apimentado.
+Projeto criado para **trolar** a amiga, parceira, namorada ou esposa etc... Uma brincadeira para a pessoa que vai clicar por curiosidade, ter uma pagina inicial que pode gerar um certo medo, depois um alivio, logo depois uma brincadeira com uma pitada de humor apimentado (saliente) rsrsrs.
 
 ##  Dicas de Instalação/Configuração ⚙
 
