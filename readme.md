@@ -7,7 +7,7 @@ Projeto criado para criar **trolar** a amiga, parceira, namorada ou esposa etc..
 ##  Dicas de Instalação/Configuração ⚙
 
 - Fazer o **download** do projeto.
-- Mover a pasta completo para outro local (C: ou Documentos)
+- Mover a pasta completa para outro local (C: ou Documentos)
 - Clicar com o botão do mouse no arquivo **naoClique.html** e enviar para **Area de trabalho**.
 - Ir para Area de trabalho, encontrar o arquivo **naoClique** e renomear para **NAO CLIQUE AQUI**
 - Alterar o icone do arquivo / Selecionar - Propriedades - Alterar Icone
