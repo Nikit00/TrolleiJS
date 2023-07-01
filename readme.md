@@ -4,6 +4,12 @@
 
 Projeto criado para **trolar** a amiga, parceira, namorada ou esposa etc... Uma brincadeira para a pessoa que vai clicar por curiosidade, ter uma pagina inicial que pode gerar um certo medo, depois um alivio, logo depois uma brincadeira com uma pitada de humor apimentado (saliente) rsrsrs.
 
+Ao se deparar com o ícone na área de trabalho, intitulado "Não Clique" e com um ícone proibido, muitos usuários **sentirão a curiosidade** de descobrir o que acontece quando clicam. Ao fazê-lo, eles são levados a uma página com o icônico boneco dos filmes **"Jogos Mortais"** e mensagens de aviso para causar um susto inicial.
+
+Entretanto, a verdadeira **reviravolta** ocorre quando os jogadores encontram um botão para jogar, mas são informados de que, ao clicarem, se **comprometem a cumprir os desafios** do jogo. Neste momento, a trolagem se revela e o ambiente assustador dá lugar a um **meme**, revelando que tudo não passava de uma **brincadeira elaborada**.
+
+A partir desse ponto, os jogadores são apresentados à verdadeira **proposta do projeto**: uma pergunta de múltipla escolha com apenas duas opções, "SIM" e "NÃO". No entanto, o desafio reside no fato de que o botão "NÃO" é impossível de ser clicado. Sempre que o jogador passa o mouse sobre ele, o botão se move de lugar, proporcionando momentos de **frustração e diversão**.
+
 ##  Dicas de Instalação/Configuração ⚙
 
 - Fazer o [download](https://github.com/Nikit00/TrolleiJS/archive/refs/heads/main.zip) do projeto.
